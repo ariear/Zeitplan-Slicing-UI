@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto mt-24 mb-36 flex justify-between items-center flex-col lg:flex-row">
 
-      <div class="w-[370px]">
+      <div class="w-[94vw] md:w-[370px]">
           <p class="font-patuh text-3xl md:text-4xl">Kenapa Kamu Sangat Harus Pakai Aplikasi Yang Keren Ini?</p>
           <p class="font-sourcesans font-normal text-base md:text-lg text-[#0e144a94] mt-5">
               Sejujurnya aplikasi kita ini seringkali bermasalah. Kadang-kadang gak bisa submit data, kadang dibukanya lambat, kadang tiba-tiba logout sendiri, untung gak berdua.
