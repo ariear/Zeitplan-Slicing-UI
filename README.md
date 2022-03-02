@@ -1,7 +1,8 @@
-# Vue 3 + Vite
+# Zeitplan Slicing UI
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Terimakasih Mas Naufal telah membagikan desain nya hehe 
+webnya masih 90% hehe
 
-## Recommended IDE Setup
+- <a href="https://www.figma.com/community/file/1061304266818856605" target="_blank">Link Design</a>
+- <a href="https://zeitplann.netlify.app" target="_blank">Link Demo</a>
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
