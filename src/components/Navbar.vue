@@ -1,5 +1,5 @@
 <template>
-  <nav class="transition-all anjime w-[94vw] md:container z-30 mx-auto flex justify-between items-center py-4 md:py-5 px-6 md:px-14 rounded-md bg-white shadow-[0_4px_20px_rgba(0,0,0,0.1)] md:shadow-[0_10px_70px_rgba(0,0,0,0.1)] fixed navposisi">
+  <nav class="transition-all anjime w-[94vw] md:container z-30 mx-auto flex justify-between items-center py-4 md:py-5 px-6 md:px-14 rounded-md bg-white shadow-[0_4px_20px_rgba(0,0,0,0.1)] md:shadow-[0_7px_50px_rgba(0,0,0,0.1)] fixed navposisi">
       <div class="flex items-center">
           <img src="/img/logo.png" alt="">
           <p class="font-pupylinux font-semibold ml-4 text-lg md:block hidden">ZEITPLAN</p>
@@ -12,6 +12,11 @@
           <p class="mr-8">Testimoni</p>
           
           <button class="bg-[#FE5E44] font-semibold flex items-center text-white py-2 px-4 rounded-md">Download <img src="/img/arrow-white.png" ></button>
+      </div>
+
+    <!-- mobile View-->
+      <div>
+          <img src="/img/menu-orange.png" width="37" alt="">
       </div>
   </nav>
 </template>
