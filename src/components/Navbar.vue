@@ -15,7 +15,7 @@
       </div>
 
     <!-- mobile View-->
-      <div>
+      <div class="md:hidden block">
           <img src="/img/menu-orange.png" width="37" alt="">
       </div>
   </nav>
