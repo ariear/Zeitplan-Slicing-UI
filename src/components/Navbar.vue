@@ -6,10 +6,10 @@
       </div>
 
       <div class="md:flex hidden font-sourcesans font-normal items-center">
-          <p class="mr-8 text-[#FE5E44] font-semibold">Home</p>
-          <p class="mr-8">Fitur-Fitur</p>
-          <p class="mr-8">Harga</p>
-          <p class="mr-8">Testimoni</p>
+          <p class="mr-8 text-[#FE5E44] font-semibold"><a href="#home">Home</a></p>
+          <p class="mr-8"><a href="#fitur">Fitur-Fitur</a></p>
+          <p class="mr-8"><a href="#price">Harga</a></p>
+          <p class="mr-8"><a href="#testimoni">Testimoni</a></p>
           
           <button class="bg-[#FE5E44] font-semibold flex items-center text-white py-2 px-4 rounded-md">Download <img src="/img/arrow-white.png" ></button>
       </div>

@@ -1,5 +1,5 @@
 <template>
-<div class="bg-[#fe5d4415] pt-20 pb-20"> 
+<div class="bg-[#fe5d4415] pt-20 pb-20" id="price"> 
     <div class="w-[95vw] md:w-[560px] text-center mx-auto pb-16">
         <p class="font-patuh text-3xl md:text-4xl text-[#0E144A] px-4">{{ title }}</p>
         <p class="font-sourcesans font-normal text-base md:text-lg text-[#0e144abd] mt-4 md:px-0 px-4">{{ sentence }}</p>

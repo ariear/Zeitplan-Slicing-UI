@@ -1,5 +1,5 @@
 <template>
-<div class="bg-[#FFF4F2]">
+<div class="bg-[#FFF4F2]" id="home">
   <div class="flex flex-col lg:flex-row items-center justify-between container mx-auto pb-11 pt-40 md:overflow-visible overflow-hidden">
 
       <div class="w-[96vw] md:w-[500px] md:pl-0 pl-2">

@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-[#fe5d442a] pb-28">
+  <div class="bg-[#fe5d442a] pb-28" id="testimoni">
 
     <div class="text-center w-[93vw] md:w-[567px] mx-auto py-20">
         <p class="font-patuh text-3xl md:text-4xl text-[#0E144A]">Apa kata umat manusia tentang aplikasi keren ini?</p>

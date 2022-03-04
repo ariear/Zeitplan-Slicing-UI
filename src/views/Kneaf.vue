@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto mt-24 mb-36 flex justify-between items-center flex-col lg:flex-row">
+  <div class="container mx-auto mt-24 mb-36 flex justify-between items-center flex-col lg:flex-row" id="fitur">
 
       <div class="w-[94vw] md:w-[370px]">
           <p class="font-patuh text-3xl md:text-4xl">Kenapa Kamu Sangat Harus Pakai Aplikasi Yang Keren Ini?</p>
