@@ -18,11 +18,26 @@
       <div class="md:hidden block">
           <img src="/img/menu-orange.png" width="37" alt="">
       </div>
+      <div class="fixed top-0 left-0 w-screen h-screen bg-[#00000059]" @click="menumobile = false" :class="menumobile ? 'block' : 'hidden'"></div>
+      <div class="fixed h-screen top-0 right-0 bg-white transition-all overflow-x-hidden font-sourcesans font-normal flex flex-col justify-center items-center" :class="menumobile ? 'w-[80vw]' : 'w-0' ">
+          <p class="mt-3 text-[#FE5E44] font-semibold"><a href="#home">Home</a></p>
+          <p class="mt-3"><a href="#kenafah">Fitur-Fitur</a></p>
+          <p class="mt-3"><a href="#price">Harga</a></p>
+          <p class="mt-3"><a href="#testimoni">Testimoni</a></p>
+          
+          <button class="bg-[#FE5E44] font-semibold flex items-center text-white py-2 px-4 rounded-md mt-6">Download <img src="/img/arrow-white.png" ></button>        
+      </div>
+      <!-- end mobile view -->      
   </nav>
 </template>
 
 <script>
 export default {
+    data() {
+        return {
+            menumobile: false
+        }
+    },
     mounted() {
         window.addEventListener('scroll', () => {
             let anjime = document.querySelector('.anjime')
