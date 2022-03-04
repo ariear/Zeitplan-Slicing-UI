@@ -15,7 +15,7 @@
       </div>
 
     <!-- mobile View-->
-      <div class="md:hidden block">
+      <div class="md:hidden block" @click="menumobile = true">
           <img src="/img/menu-orange.png" width="37" alt="">
       </div>
       <div class="fixed top-0 left-0 w-screen h-screen bg-[#00000059]" @click="menumobile = false" :class="menumobile ? 'block' : 'hidden'"></div>
